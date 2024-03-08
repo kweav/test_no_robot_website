@@ -1,0 +1,10 @@
+---
+title: "Testpage"
+output: "html_document"
+---
+
+Testing to see if the jhudsl-robot is a necessary collaborator on a website repo
+
+## This is a test page
+
+The settings on the repo have been changed for the actions and the GH_PAT Secret stored. Checking to see if the jhudsl-robot is a necessary collaborator for the actions to work successfully.
