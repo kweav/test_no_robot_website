@@ -16,6 +16,8 @@ navbar:
     href: style.html
   - text: 4. Git Actions
     href: git_actions.html
+  - text: 5. Test page
+    href: test.html
   - text: More ottr docs
     href: https://www.ottrproject.org/
 
